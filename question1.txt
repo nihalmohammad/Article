@@ -1,0 +1,10 @@
+Good, now for internet Access, use IP => 192.168.1.X
+
+where X > 15 X < 200
+
+Set gateway => 192.168.1.1. 
+
+Got internet access? 
+
+Your next question is in /opt/question3.png
+
